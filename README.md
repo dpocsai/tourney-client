@@ -1,3 +1,22 @@
+Tourney - An easy to use tournament generator application.
+
+Overview:
+
+1) Built with React, React-Router, React-Final-Form, Redux, and Material UI on the frontend, utilizing google oAuth2 and axios
+2) Built with NodeJS, Express, MongoDB, and Mongoose on the backend
+3) A clean, easy to use interface for creating round robin, and elimination style tournaments. 
+
+Features:
+
+1) User Authentication via Google oAuth2
+2) Light-mode / dark-mode toggle
+3) Ability to create flexible and customized tournaments
+4) Built-in standings with automatic tiebreaker system
+5) Dynamic tracking of a range of participant statistics
+6) Ability to reset matches, edit match results and dynamically updated all affected matches in the tournament
+7) Ability to share tournaments via WhatsApp, Email, and Facebook - only admin can edit the tournament however.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
